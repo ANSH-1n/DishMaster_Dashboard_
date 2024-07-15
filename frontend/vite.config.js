@@ -10,3 +10,7 @@ export default defineConfig({
   },
   plugins: [react()],
 })
+
+
+
+git remote add origin https://github.com/ANSH-1n/INTERN_ASSIGNMENT_FINAL.git
